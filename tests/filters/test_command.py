@@ -18,7 +18,7 @@
 
 import pytest
 
-from pyrogram import filters
+from pyrogramv2 import filters
 from tests.filters import Client, Message
 
 c = Client()
